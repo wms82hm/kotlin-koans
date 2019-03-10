@@ -83,3 +83,9 @@ You can solve the similar tasks using Educational Plugin or in the browser:
 - online version of koans https://try.kotl.in
 
 The koans tasks for web-demo and educational plugin can be found here: https://github.com/Kotlin/kotlin-koans-edu
+
+# Kotlin References
+- [Kotlin Tutorial jaxenter](https://jaxenter.de/kotlin-tutorial-48156)
+- [Kotlin Tutorials](https://kotlinlang.org/docs/tutorials/)
+- [Kotlin Koans Online](https://play.kotlinlang.org/koans/overview)
+- [Kotlin Koans Github](https://github.com/Kotlin/kotlin-koans)
